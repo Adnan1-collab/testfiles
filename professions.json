@@ -1,0 +1,12 @@
+[
+  { "id": "DEV", "profession": "Software Developer" },
+  { "id": "DSC", "profession": "Data Scientist" },
+  { "id": "GRD", "profession": "Graphic Designer" },
+  { "id": "ENG", "profession": "Civil Engineer" },
+  { "id": "DOC", "profession": "Doctor" },
+  { "id": "TCH", "profession": "Teacher" },
+  { "id": "ACC", "profession": "Accountant" },
+  { "id": "LAW", "profession": "Lawyer" },
+  { "id": "MKT", "profession": "Marketing Specialist" },
+  { "id": "PM", "profession": "Project Manager" }
+]
