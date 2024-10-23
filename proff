@@ -1,0 +1,12 @@
+[
+  { "id": "ARCH", "profession": "Architect" },
+  { "id": "HRM", "profession": "HR Manager" },
+  { "id": "ITSP", "profession": "IT Support Specialist" },
+  { "id": "PHM", "profession": "Pharmacist" },
+  { "id": "ELC", "profession": "Electrician" },
+  { "id": "PLM", "profession": "Plumber" },
+  { "id": "CHEF", "profession": "Chef" },
+  { "id": "WTR", "profession": "Waiter" },
+  { "id": "PRJ", "profession": "Project Manager" },
+  { "id": "DVLP", "profession": "Web Developer" }
+]
